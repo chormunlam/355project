@@ -14,3 +14,7 @@ detail.php will get it.
 the detail.php get the id and save it as variable id, take care the data and show the detail in table with ref id
  $id = $_GET['id'];
 ![491662413435_ pic](https://user-images.githubusercontent.com/71049920/188514390-27b87b3d-2a11-44af-aadd-10f292a21fd4.jpg)
+
+
+![IMG_1364](https://user-images.githubusercontent.com/71049920/188515213-f2301886-7955-4074-aa32-906d0136dcbb.JPG)
+[CSCI355-Summer2022-Assignment08.docx](https://github.com/chormunlam/355project/files/9492085/CSCI355-Summer2022-Assignment08.docx)
